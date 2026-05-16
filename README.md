@@ -10,22 +10,19 @@ Passionate about low-level optimizations, distributed systems, and solving compl
 </p>
 
 
-# 🚀 About Me
+# About Me
 
 - 🎓 B.Tech in Computer Science at **VIT Chennai**
-- 📊 Current CGPA: **8.33**
-- 💼 Former Software Developer Intern at **Ecoflect Enterprises**
-- ⚡ Interested in:
+- Current CGPA: **8.33**
   - Systems Programming
   - Cloud Architecture
   - Backend Engineering
-  - Cryptography & Secure Communication
   - Performance Optimization
-- 🧠 Solved **400+ DSA problems** across coding platforms
+-  Solved **400+ DSA problems** across coding platforms
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="left">
 
@@ -45,7 +42,7 @@ Passionate about low-level optimizations, distributed systems, and solving compl
 
 ---
 
-# 🏆 Competitive Programming
+# Competitive Programming
 
 <p align="left">
 
@@ -63,7 +60,7 @@ Passionate about low-level optimizations, distributed systems, and solving compl
 
 </p>
 
-### 📈 Competitive Programming Highlights
+### Competitive Programming Highlights
 
 - Solved **400+ algorithmic & DSA problems**
 - Strong command over:
@@ -80,21 +77,21 @@ Passionate about low-level optimizations, distributed systems, and solving compl
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
-## 💻 Languages
+##  Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js" />
 </p>
 
-## 🌐 Frontend Development
+##  Frontend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css" />
 </p>
 
-## ⚙️ Backend & Cloud
+##  Backend & Cloud
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,aws" />
@@ -104,7 +101,7 @@ Passionate about low-level optimizations, distributed systems, and solving compl
 <img src="https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=api&logoColor=white"/>
 </p>
 
-## 🗄️ Databases & DevOps
+## Databases & DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,firebase,docker,linux,git,github" />
@@ -112,7 +109,7 @@ Passionate about low-level optimizations, distributed systems, and solving compl
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
 
@@ -130,7 +127,7 @@ Passionate about low-level optimizations, distributed systems, and solving compl
 
 ---
 
-# 📈 Coding Platform Stats
+#  Coding Platform Stats
 
 <p align="center">
 
@@ -147,7 +144,7 @@ Passionate about low-level optimizations, distributed systems, and solving compl
 
 ---
 
-# 🧠 Currently Exploring
+#  Currently Exploring
 
 - Distributed Systems
 - High Performance Backend Design
@@ -156,7 +153,7 @@ Passionate about low-level optimizations, distributed systems, and solving compl
 
 ---
 
-# ⚡ Fun Fact
+#  Fun Fact
 
 ```cpp
 while(!success){
