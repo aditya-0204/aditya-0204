@@ -8,7 +8,7 @@ Full-Stack Developer • Systems Programmer • Competitive Programmer
 I build scalable cloud systems, performance-driven backend architectures, and security-focused applications.
 Passionate about low-level optimizations, distributed systems, and solving complex algorithmic problems.
 </p>
-cpp
-while(!success){
+```cpp
+while (!success) {
     keepLearning();
 }
