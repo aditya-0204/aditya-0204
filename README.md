@@ -9,17 +9,6 @@ I build scalable cloud systems, performance-driven backend architectures, and se
 Passionate about low-level optimizations, distributed systems, and solving complex algorithmic problems.
 </p>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=aditya-0204&label=Profile%20Views&color=0e75b6&style=flat" />
-
-<img src="https://img.shields.io/github/followers/aditya-0204?style=social" />
-
-<img src="https://img.shields.io/github/stars/aditya-0204?affiliations=OWNER%2CCOLLABORATOR&style=social" />
-
-</p>
-
----
 
 # 🚀 About Me
 
