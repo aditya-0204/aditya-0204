@@ -1,4 +1,4 @@
-```html
+
 <h1 align="center">Hi 👋, I'm Aditya Kumawat</h1>
 
 <h3 align="center">
@@ -17,4 +17,4 @@ Passionate about low-level optimizations, distributed systems, and solving compl
   <a href="https://codeforces.com/profile/adityakumawat2003">Codeforces</a> •
   <a href="https://leetcode.com/u/error_2003/">LeetCode</a>
 </p>
-```
+
