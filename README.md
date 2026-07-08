@@ -12,9 +12,9 @@ Passionate about low-level optimizations, distributed systems, and solving compl
 
 <p align="center">
   <a href="https://aditya-0204.github.io/Portfolio/">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/0204-aditya/">LinkedIn</a> •
-  <a href="https://www.codechef.com/users/aditya0203">CodeChef</a> •
-  <a href="https://codeforces.com/profile/adityakumawat2003">Codeforces</a> •
   <a href="https://leetcode.com/u/error_2003/">LeetCode</a>
+  <a href="https://codeforces.com/profile/adityakumawat2003">Codeforces</a> •
+  <a href="https://www.codechef.com/users/aditya0203">CodeChef</a> •
+  <a href="https://www.linkedin.com/in/0204-aditya/">LinkedIn</a> •
 </p>
 
