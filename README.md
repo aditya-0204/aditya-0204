@@ -8,7 +8,7 @@ Full-Stack Developer • Systems Programmer • Competitive Programmer
 <p align="center">
 I build scalable cloud systems, performance-driven backend architectures, and security-focused applications.
 </p>
-<p>low-level optimizations | distributed systems | solving complex algorithmic problems</p>
+<p align="center">low-level optimizations | distributed systems | solving complex algorithmic problems</p>
 
 <p align="center">
   <a href="https://aditya-0204.github.io/Portfolio/">🌐 Portfolio</a> |
