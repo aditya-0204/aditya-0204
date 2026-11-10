@@ -19,15 +19,7 @@ I build scalable cloud systems, performance-driven backend architectures, and se
 
 <br>
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aditya-0204&theme=radical&no-frame=true&no-bg=true&margin-w=15&v=1" alt="Aditya's Trophies" />
-</p>
-
-<br>
-
 <!-- GitHub Stats and Streak -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya-0204&show_icons=true&theme=radical&hide_border=true&v=1" height="150" alt="Aditya's GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=aditya-0204&theme=radical&hide_border=true&v=1" height="150" alt="Aditya's Streak Stats" />
 </p>
