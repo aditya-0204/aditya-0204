@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Aditya Kumawat</h1>
 
 <h3 align="center">
@@ -18,3 +17,23 @@ I build scalable cloud systems, performance-driven backend architectures, and se
   <a href="https://www.linkedin.com/in/0204-aditya/">LinkedIn</a>
 </p>
 
+<br>
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <a href="https://github.com/aditya-0204">
+    <img src="https://github-profile-trophy.vercel.app/?username=aditya-0204&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Aditya's Trophies" />
+  </a>
+</div>
+
+<br>
+
+<!-- GitHub Stats and Streak -->
+<div align="center">
+  <a href="https://github.com/aditya-0204">
+    <img src="https://github-readme-stats.vercel.app/api?username=aditya-0204&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Aditya's GitHub Stats" />
+  </a>
+  <a href="https://github.com/aditya-0204">
+    <img src="https://streak-stats.demolab.com/?user=aditya-0204&theme=radical&hide_border=true" alt="Aditya's Streak Stats" />
+  </a>
+</div>
